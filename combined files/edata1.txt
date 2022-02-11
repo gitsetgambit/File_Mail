@@ -1,0 +1,194 @@
+Finoit 2021 Freshers Batch Off Campus Recruitment Drive-Registration Link[last date: ASAP]
+https://www.firstnaukri.com/careers/customised/landingpage/finoit/02072021/index.html
+Job Location: NOIDA [You are required to Work from Home until the pandemic situation is not under control]
+Number of Job Openings: 25
+Compensation: 3.8 Lacs Per Annum CTC [Upgradable to 4.2 LPA if excellent performance is observed during first 6 months of training]
+Qualification Required: B.E/B.Tech (Computer Science/Information Technology/Electronics and Communication)
+Eligibility Criteria: 60% & above throughout (in Xth, XIIth and B.Tech)
+Batch/Passing Out Year: 2021 Pass-outs
+=============
+MobStac Winter Internship Challenge 2021.
+Link: https://assessment.hackerearth.com/challenges/hiring/mobstac-winter-internship-challenge-2021/
+B.Tech/ B.E, MCA & M.Tech(B.Tech/B.E should be the graduate degree) students are eligible for internship.
+The internship is for 2021 and 2022 graduates.
+7.5+ CGPA
+2 programming questions on Data Structures/Algorithms.
+15 MCQs
+Duration: 2 Hours 30 Minutes
+=============
+1. DevRev Hiring Freshers
+Bengaluru, Karnataka, India
+Link - https://boards.greenhouse.io/devrev/jobs/4006575004?gh_src=7f81e5a04us
+Minimum Qualifications:
+Bachelor's or Master’s degree in Computer Science or related technical field, or equivalent practical experience
+Experience in frontend development, with knowledge of HTML, CSS, Javascript, Typescript, React.js, Vue.js, Node.js, and frontend-related technologies
+Experience with latest UI libraries and frameworks
+Experience in building full-stack web and mobile applications
+Experience in coding Java or Golang
+Preferred Qualifications:
+Experience with PWA (Progressive Web Apps), Single Page Applications is a bonus
+Knowledge of JavaScript advanced features
+==============
+We are #HiringFreshers
+Skills- Programming knowledge in Python or Java or C, C++, HTML
+B.Tech CSE/ IT or BCA (2020, 2021 or 2022 graduates)
+Job location-Durgapur
+Applications can be sent to hr@swadeshsoftwares.com
+#itjobs #fresheritjobs #fresherdeveloperjobs #durgapurjobs
+==============
+Opening for fresher in Emids technology
+Condition-Passout 2020/2021with 60%
+10th 12th -70%
+What we are looking for- Strong programming Basics,oops,data structure & algorithm,rdbms &sql
+Selection process-
+1)Aptitude test
+2)1 technical Round
+3) Hr Round
+Salary 3.5 lakh +50k bonus at the end of 12 months
+Email-
+balvyas497@gmail.com
+mailtosahul@gmail.com
+satyamsharmaa15@gmail.com
+Share your resume before 31 St December
+===============
+Parallel Wireless Recruitment 2021 | QA Intern | Freshers | Bangalore
+https://jobs.lever.co/parallelwireless/0eec5e86-183d-46e3-a48e-5d1b0bdc832f
+BANGALORE /R&D – ACCESS DEVELOPMENT /INTERN
+What you'll do:
+·        Design and build automation framework from scratch and be able to improve and integrate existing automation
+·        Develop new library or update the existing libraries
+·        Work closely with Software QA and software development engineers on requirements
+·        Understand feature requirements and translate to test cases and test automation
+·        Plan and implement test automation strategies
+·        Be a go-to person on quick turnarounds on scripts and educate other engineers  
+===============
+HCL Technologies is #hiring!
+We are currently hiring Software Engineer/Senior Software Engineer role at HCL. This is an exclusive opportunity for Batch 2022 to be part of HCL.
+Eligibility : 75% across academics (10th, 12th, Grad, PG)
+Batch : 2022 only
+Location : Pan India
+CTC range : 3.65 LPA to 4.75 LPA
+Link to apply: https://lnkd.in/eanYyjQC
+================
+2. Brambles Hiring
+Role - Associate Cloud Developer
+- Freshers can apply
+Bangalore
+Link - https://careers.brambles.com/job/13970397/associate-cloud-developer-bangalore-in/
+Competencies :
+Fresher or at most 1 year experience.
+Experience using Unix/Linux operating systems
+Excellent analytical and problem solving/troubleshooting skills
+Ability to learn new technologies quickly and independently
+Good communication and interpersonal skills and strong attention to detail.
+Knowledge of any of these languages: Python, Go
+Knowledge or experience in one or more of the following elements
+Cloud platforms: AWS/GCP/Azure
+Cloud-native Solutions: Kubernetes, Docker
+RDS : MySQL, Postgres
+Tools / Software: Jenkins, Github, Bitbucket
+==============
+3. Ford Hiring
+Role - Software Engineer
+Fresher
+Link - https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5526&PageType=JobDetails&jobid=552712&codes=IND#jobDetails=552712_5526
+Area of professional exposure (technical skills)
+- Java / J2EE ( core and Enterprise edition)
+- PLS/SQL - Oracle & or Teradata
+- Cobol MF (knowledge)
+- Understanding on Software Life Cycle/Agile / product based model - Nice to have
+==============
+4. Clarivate Hiring
+Batch - 2021
+India - Bangalore
+India - Noida
+Link - https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/India---Bangalore/Associate-Software-Engineer_JREQ111769
+Desirable skills –
+Demonstrable problem solving, analytical skills.
+Ability to program (at Beginner or Advanced Beginner level in one or more programming language like Java, C#, Python, JavaScript etc.).
+Ability to think through a problem at conceptual level and propose solutions. Excellent verbal and written communication skills.
+Keen desire to learn, stretch and a never-give-up attitude.
+Very strong interpersonal skills and an easy-going personality. Highly proactive, result-oriented and team player.
+Ability to stay current with new technology.
+Criteria:
+BE/BTech/MTech – (2021 batch) – Computers/IT/IS/Electronics only
+CGPA : 70%
+==============
+5. EATON Hiring
+Role - Software Engineer
+Pune
+Link - https://jobs.eaton.com/jobs/113094?lang=en-us&previousLocale=en-US
+Qualifications
+Education level required  Bachelors in Electrical Engineering Years and area of experience required 0 ~ 1 years hands on experience Technical knowledge • Creo 3D modeling & manufacturable drawing preparation expertise
+• GD&T understanding and implementation knowledge
+• FEA inputs & FEA results interpretation Soft skills 1. Excel , Powerpoint ,CAD tools  etc
+2. Excellent communication skills (verbal & written)
+3. Learning Agility
+4. Strategic mindset
+==============
+6. BlackBoard Hiring
+Role -Asssociate Software Engineer
+Chennai
+Link - https://careers.blackboard.com/jobs/7170431-associate-software-engineer
+The Candidate:
+Required skills/qualifications:
+Any experience designing, writing, and deploying scalable software
+Light experience with the Java stack, SQL databases, and web application development
+Any experience with Object-Oriented design and coding skills
+Strong oral and written communication skills, ability to communicate effectively with both technical and non-technical audiences, and fluency in English
+Quick learner with strong problem-solving and analytical skills
+Light experience writing unit and integration tests
+Ability to work with a team of engineers on cross-functional agile projects
+An understanding of data structures, algorithm analysis, and design skills
+Preferred skills/qualifications:
+Experience with cloud-based hosting solutions (AWS)
+==============
+Collins Aerospace hiring Graduate Software Engineer
+Apply Link: https://jobs.collinsaerospace.com/job/bengaluru/graduate-engineer-trainee/1738/20468662096
+===============
+Weatherford ( 2020/2021/2019) MUMBAI
+SOFTWARE DEVELOPER
+Apply Link: https://external-weatherford.icims.com/jobs/130950/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1333&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330
+===============
+Nutanix hiring System Testing-Python Automation (2019/2020/2021)
+Apply link: https://nutanix.eightfold.ai/careers?pid=10218887&domain=nutanix.com
+===============
+Hexaware Technologies hiring Software Engineer (2022)
+Apply link: https://app.joinsuperset.com/join/#/signup/student?jp=404da75e-d079-4cef-abfd-17be2f21ff25
+===============
+Oracle hiring Software Developer-I
+Apply link: https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104060/
+===============
+YASH Technologies hiring Trainee-SAP & MM | 3.8-5 LPA
+Apply link:
+https://careers.yash.com/job/Pune-Trainee-SAP-PP-Job/586188810/
+https://careers.yash.com/job/Bangalore-Trainee-SAP-MM-Job/585905110/
+===============
+Infosys (2020/2021) | 6-8LPA
+Apply link: https://surveys.infosysapps.com/r/a/Infosys_DSESPDEC?fbclid=IwAR0seq2P_hMOOoN3jMgx5hf1GlQTenFZFWwgTBUIRkM6uUaGlEs6iXIk9Ck
+===============
+Hexaview Technologies Inc. (2019/2020/2021)
+Apply link: https://hexaviewtech.com/software-quality-engineer/
+Software Quality Engineer
+Experience - Fresher
+Location - Noida
+Eligibility Criteria - B. Tech/ MCA/ M. Tech – 2021
+Job Description
+Learn today’s technologies with complete focus on enhancing testing skills.
+A complete testing profile.
+The candidate must have the ability to adopt & design testing scenarios for usability testing, conduct manual and automated tests, detecting bugs, assessing software code, preparing bug reports, analyzing documents, and presenting findings to software development teams.
+===============
+GSPANN Technologies, Inc hiring Java/Python Developers(2020/2021)
+Apply link: https://www.gspann.com/jobs/open-positions/Software-Engineer-Trainees-%E2%80%93-Java/Python/
+===============
+AppSierra is looking to #hire for the following positions-
+-QA Automation Trainees (Exp 0-6 months):
+Interested candidates with relevant skills can share the resume at
+tanya.jain@appsierra.com
+==============
+]We are hiring for "Software Tester" (Male) for our organization in Pune.
+Interested can share their resume on bhagyashreess@teamvault.net
+Job location : Pune (Near to Navale Bridge)
+Experience needed : Fresher to 6 months in manual testing
+Notice period : Immediate to 1 week.
+==============
