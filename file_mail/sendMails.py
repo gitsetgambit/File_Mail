@@ -31,6 +31,6 @@ for i in FileMail.pullout():
     with smtplib.SMTP(host="smtp.gmail.com", port=587) as smtp:
         smtp.ehlo()
         smtp.starttls()
-        smtp.login("aditya2381998@gmail.com", "123456789adidas")
+        smtp.login("xyz", "xyz")
         smtp.send_message(message)
         print("sent...")
